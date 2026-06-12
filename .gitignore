@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+attendance.csv
+face_data.pkl
+faces/
